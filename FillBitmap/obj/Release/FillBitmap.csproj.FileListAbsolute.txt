@@ -1,0 +1,27 @@
+C:\FillBitmap\bin\Release\FillBitmap.exe
+C:\FillBitmap\bin\Release\FillBitmap.pdb
+C:\FillBitmap\obj\Release\ResolveAssemblyReference.cache
+C:\FillBitmap\obj\Release\FillBitmap.Form1.resources
+C:\FillBitmap\obj\Release\FillBitmap.Properties.Resources.resources
+C:\FillBitmap\obj\Release\FillBitmap.csproj.GenerateResource.Cache
+C:\FillBitmap\obj\Release\FillBitmap.exe
+C:\FillBitmap\obj\Release\FillBitmap.pdb
+C:\FillBitmap\bin\Release\tessnet2_32.dll
+C:\Users\Gor\Desktop\Инфа, практика\магистратура\2 семестр\Графика\FillBitmap\bin\Release\FillBitmap.exe
+C:\Users\Gor\Desktop\Инфа, практика\магистратура\2 семестр\Графика\FillBitmap\bin\Release\FillBitmap.pdb
+C:\Users\Gor\Desktop\Инфа, практика\магистратура\2 семестр\Графика\FillBitmap\obj\Release\FillBitmap.csprojResolveAssemblyReference.cache
+C:\Users\Gor\Desktop\Инфа, практика\магистратура\2 семестр\Графика\FillBitmap\obj\Release\FillBitmap.Form1.resources
+C:\Users\Gor\Desktop\Инфа, практика\магистратура\2 семестр\Графика\FillBitmap\obj\Release\FillBitmap.Properties.Resources.resources
+C:\Users\Gor\Desktop\Инфа, практика\магистратура\2 семестр\Графика\FillBitmap\obj\Release\FillBitmap.csproj.GenerateResource.Cache
+C:\Users\Gor\Desktop\Инфа, практика\магистратура\2 семестр\Графика\FillBitmap\obj\Release\FillBitmap.exe
+C:\Users\Gor\Desktop\Инфа, практика\магистратура\2 семестр\Графика\FillBitmap\obj\Release\FillBitmap.pdb
+C:\Users\Gor\Desktop\Инфа, практика\магистратура\2 семестр\Графика\FillBitmap\bin\Release\tessnet2_64.dll
+C:\Users\Серый\Desktop\FillBitmap\bin\Release\FillBitmap.exe
+C:\Users\Серый\Desktop\FillBitmap\bin\Release\FillBitmap.pdb
+C:\Users\Серый\Desktop\FillBitmap\bin\Release\tessnet2_64.dll
+C:\Users\Серый\Desktop\FillBitmap\obj\Release\FillBitmap.csprojResolveAssemblyReference.cache
+C:\Users\Серый\Desktop\FillBitmap\obj\Release\FillBitmap.Form1.resources
+C:\Users\Серый\Desktop\FillBitmap\obj\Release\FillBitmap.Properties.Resources.resources
+C:\Users\Серый\Desktop\FillBitmap\obj\Release\FillBitmap.csproj.GenerateResource.Cache
+C:\Users\Серый\Desktop\FillBitmap\obj\Release\FillBitmap.exe
+C:\Users\Серый\Desktop\FillBitmap\obj\Release\FillBitmap.pdb

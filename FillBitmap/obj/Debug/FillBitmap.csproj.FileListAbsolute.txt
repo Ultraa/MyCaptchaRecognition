@@ -1,0 +1,17 @@
+C:\FillBitmap\bin\Debug\FillBitmap.exe
+C:\FillBitmap\bin\Debug\FillBitmap.pdb
+C:\FillBitmap\obj\Debug\ResolveAssemblyReference.cache
+C:\FillBitmap\obj\Debug\FillBitmap.Form1.resources
+C:\FillBitmap\obj\Debug\FillBitmap.Properties.Resources.resources
+C:\FillBitmap\obj\Debug\FillBitmap.csproj.GenerateResource.Cache
+C:\FillBitmap\obj\Debug\FillBitmap.exe
+C:\FillBitmap\obj\Debug\FillBitmap.pdb
+C:\Users\Серый\Desktop\FillBitmap\bin\Debug\FillBitmap.exe
+C:\Users\Серый\Desktop\FillBitmap\bin\Debug\FillBitmap.pdb
+C:\Users\Серый\Desktop\FillBitmap\bin\Debug\tessnet2_64.dll
+C:\Users\Серый\Desktop\FillBitmap\obj\Debug\FillBitmap.csprojResolveAssemblyReference.cache
+C:\Users\Серый\Desktop\FillBitmap\obj\Debug\FillBitmap.Form1.resources
+C:\Users\Серый\Desktop\FillBitmap\obj\Debug\FillBitmap.Properties.Resources.resources
+C:\Users\Серый\Desktop\FillBitmap\obj\Debug\FillBitmap.csproj.GenerateResource.Cache
+C:\Users\Серый\Desktop\FillBitmap\obj\Debug\FillBitmap.exe
+C:\Users\Серый\Desktop\FillBitmap\obj\Debug\FillBitmap.pdb
